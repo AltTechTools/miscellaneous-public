@@ -12,7 +12,7 @@
 	url = https://github.com/swaywm/wlroots.git
 [submodule "wshowkeys-git"]
 	path = wshowkeys-git
-	url = https://aur.archlinux.org/wshowkeys-git.git
+	url = https://github.com/ammgws/wshowkeys
 [submodule "wshowkeys-aur"]
 	path = wshowkeys-git/aur
 	url = https://aur.archlinux.org/wshowkeys-git.git
