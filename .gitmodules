@@ -13,6 +13,6 @@
 [submodule "wshowkeys-git"]
 	path = wshowkeys-git
 	url = https://aur.archlinux.org/wshowkeys-git.git
-[submodule "wshowkeys-git"]
+[submodule "wshowkeys-aur"]
 	path = wshowkeys-git/aur
 	url = https://aur.archlinux.org/wshowkeys-git.git
