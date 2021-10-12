@@ -10,9 +10,9 @@
 [submodule "wlroots"]
 	path = wlroots
 	url = https://github.com/swaywm/wlroots.git
-[submodule "wshowkeys-git"]
-	path = wshowkeys-git
-	url = https://github.com/ammgws/wshowkeys
 [submodule "wshowkeys-aur"]
-	path = wshowkeys-git/aur
+	path = wshowkeys-aur
 	url = https://aur.archlinux.org/wshowkeys-git.git
+[submodule "wshowkeys"]
+	path = wshowkeys
+	url = https://github.com/ammgws/wshowkeys.git
