@@ -1,0 +1,15 @@
+[submodule "suckless-terminal"]
+	path = suckless-terminal
+	url = https://git.suckless.org/st
+[submodule "mesonbuild"]
+	path = mesonbuild
+	url = https://github.com/mesonbuild/meson.git
+[submodule "wayland"]
+	path = wayland
+	url = https://gitlab.freedesktop.org/wayland/wayland.git
+[submodule "wlroots"]
+	path = wlroots
+	url = https://github.com/swaywm/wlroots.git
+[submodule "wshowkeys-git"]
+	path = wshowkeys-git
+	url = https://aur.archlinux.org/wshowkeys-git.git
