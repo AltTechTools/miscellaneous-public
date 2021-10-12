@@ -16,3 +16,9 @@
 [submodule "wshowkeys"]
 	path = wshowkeys
 	url = https://github.com/ammgws/wshowkeys.git
+[submodule "aur-search-git"]
+	path = aur-search-git
+	url = https://aur.archlinux.org/aur-search-git.git
+[submodule "aur-search"]
+	path = aur-search
+	url = https://github.com/takiz/aur-search
