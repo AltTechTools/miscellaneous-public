@@ -22,3 +22,9 @@
 [submodule "aur-search"]
 	path = aur-search
 	url = https://github.com/takiz/aur-search
+[submodule "76b0106675a50349e845940b09ed9f72"]
+	path = 76b0106675a50349e845940b09ed9f72
+	url = https://gist.github.com/fssSGJ/76b0106675a50349e845940b09ed9f72
+[submodule "xrandr-rotate-touchscreen"]
+	path = xrandr-rotate-touchscreen
+	url = https://gist.github.com/fssSGJ/76b0106675a50349e845940b09ed9f72
